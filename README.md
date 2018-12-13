@@ -1,2 +1,2 @@
 # ProjectTeste
-Teste
+Teste do Git and GitHub
